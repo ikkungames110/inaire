@@ -1,0 +1,551 @@
+[
+  {
+    "id": 0,
+    "speakerName": "四国めたん",
+    "color": "#FF4444",
+    "text": "今回は「神のタクトで試合を支配する天才キャプテン神童拓人」に対する当時の視聴者の反応を紹介します",
+    "filename": "comment_00.wav",
+    "duration": 7.52,
+    "durationInFrames": 251,
+    "seFile": "和太鼓でドドン.mp3",
+    "image": "title.png",
+    "isIntro": true
+  },
+  {
+    "id": 1,
+    "speakerName": "四国めたん",
+    "color": "#FF4444",
+    "text": "フィフスセクターに支配されたサッカーの中で、雷門のキャプテンとして苦しみながらも仲間を導き、奏者マエストロやフォルテシモで試合の空気を変えたキャラクターです。",
+    "filename": "comment_01.wav",
+    "duration": 9.962666666666667,
+    "durationInFrames": 324,
+    "seFile": "拍子木1.mp3",
+    "image": "title.png",
+    "isIntro": true
+  },
+  {
+    "id": 2,
+    "speakerName": "四国めたん",
+    "color": "#FF4444",
+    "text": "それではどうぞ！",
+    "filename": "comment_02.wav",
+    "duration": 1.0666666666666667,
+    "durationInFrames": 57,
+    "seFile": "拍子木2.mp3",
+    "image": "title.png",
+    "isIntro": true
+  },
+  {
+    "id": 3,
+    "speakerName": "ずんだもん",
+    "color": "#FFE000",
+    "text": "神童、初登場からもう「ただ者じゃないキャプテン」感がすごかった。",
+    "filename": "comment_03.wav",
+    "duration": 4.789333333333333,
+    "durationInFrames": 169,
+    "seFile": "拍子木1.mp3",
+    "image": "anime_01.png"
+  },
+  {
+    "id": 4,
+    "speakerName": "四国めたん",
+    "color": "#FF4444",
+    "text": "中学生なのに背負ってるものが重すぎる。あの表情だけで雷門の状況が分かる。",
+    "filename": "comment_04.wav",
+    "duration": 4.426666666666667,
+    "durationInFrames": 158,
+    "image": "anime_01.png"
+  },
+  {
+    "id": 5,
+    "speakerName": "春日部つむぎ",
+    "color": "#44AAFF",
+    "text": "天馬の明るさと神童の苦しさの対比が、GO序盤の空気を一気に作ってた。",
+    "filename": "comment_05.wav",
+    "duration": 4.1386666666666665,
+    "durationInFrames": 150,
+    "image": "anime_01.png"
+  },
+  {
+    "id": 6,
+    "speakerName": "ずんだもん",
+    "color": "#FFE000",
+    "text": "キャプテンマーク握って泣くシーン、子ども向けアニメの重さじゃなかった。",
+    "filename": "comment_06.wav",
+    "duration": 4.032,
+    "durationInFrames": 146,
+    "image": "anime_01.png"
+  },
+  {
+    "id": 7,
+    "speakerName": "四国めたん",
+    "color": "#FF4444",
+    "text": "神のタクトって名前からして強すぎる。サッカーで指揮者をやる発想がかっこいい。",
+    "filename": "comment_07.wav",
+    "duration": 4.213333333333333,
+    "durationInFrames": 152,
+    "seFile": "拍子木2.mp3",
+    "image": "anime_02.png"
+  },
+  {
+    "id": 8,
+    "speakerName": "春日部つむぎ",
+    "color": "#44AAFF",
+    "text": "フィールド全体を見て、味方を動かして、試合を組み立てるのが神童の魅力。",
+    "filename": "comment_08.wav",
+    "duration": 4.458666666666667,
+    "durationInFrames": 159,
+    "image": "anime_02.png"
+  },
+  {
+    "id": 9,
+    "speakerName": "ずんだもん",
+    "color": "#FFE000",
+    "text": "神のタクトを使うと、急に試合が神童の楽譜みたいに見えるのすごい。",
+    "filename": "comment_09.wav",
+    "duration": 4.512,
+    "durationInFrames": 161,
+    "image": "anime_02.png"
+  },
+  {
+    "id": 10,
+    "speakerName": "四国めたん",
+    "color": "#FF4444",
+    "text": "プレーが派手なだけじゃなくて、頭脳で支配してる感じが唯一無二だった。",
+    "filename": "comment_10.wav",
+    "duration": 3.7866666666666666,
+    "durationInFrames": 139,
+    "image": "anime_02.png"
+  },
+  {
+    "id": 11,
+    "speakerName": "春日部つむぎ",
+    "color": "#44AAFF",
+    "text": "奏者マエストロが出た瞬間、神童のキャラ性が全部つながった感じがした。",
+    "filename": "comment_11.wav",
+    "duration": 3.978666666666667,
+    "durationInFrames": 145,
+    "seFile": "小鼓（こつづみ）.mp3",
+    "image": "anime_03.png"
+  },
+  {
+    "id": 12,
+    "speakerName": "ずんだもん",
+    "color": "#FFE000",
+    "text": "化身まで音楽家モチーフなの、設定が綺麗すぎる。",
+    "filename": "comment_12.wav",
+    "duration": 3.488,
+    "durationInFrames": 130,
+    "image": "anime_03.png"
+  },
+  {
+    "id": 13,
+    "speakerName": "四国めたん",
+    "color": "#FF4444",
+    "text": "マエストロと並ぶ神童、画面の説得力が強い。完全に天才ゲームメーカー。",
+    "filename": "comment_13.wav",
+    "duration": 4.8213333333333335,
+    "durationInFrames": 170,
+    "image": "anime_03.png"
+  },
+  {
+    "id": 14,
+    "speakerName": "春日部つむぎ",
+    "color": "#44AAFF",
+    "text": "強い化身なのに、力押しじゃなくて指揮者っぽいのが神童らしい。",
+    "filename": "comment_14.wav",
+    "duration": 3.498666666666667,
+    "durationInFrames": 130,
+    "image": "anime_03.png"
+  },
+  {
+    "id": 15,
+    "speakerName": "ずんだもん",
+    "color": "#FFE000",
+    "text": "フォルテシモ初めて見た時、神童ってシュートもこんなに華があるのかって驚いた。",
+    "filename": "comment_15.wav",
+    "duration": 4.789333333333333,
+    "durationInFrames": 169,
+    "seFile": "和太鼓でドドン.mp3",
+    "image": "anime_04.png"
+  },
+  {
+    "id": 16,
+    "speakerName": "四国めたん",
+    "color": "#FF4444",
+    "text": "指揮官タイプなのに自分でも点を取りに行けるの、普通に反則だよ。",
+    "filename": "comment_16.wav",
+    "duration": 3.6373333333333333,
+    "durationInFrames": 135,
+    "image": "anime_04.png"
+  },
+  {
+    "id": 17,
+    "speakerName": "春日部つむぎ",
+    "color": "#44AAFF",
+    "text": "フォルテシモの技名、音楽用語なのに必殺シュートとして成立してるのが良い。",
+    "filename": "comment_17.wav",
+    "duration": 4.266666666666667,
+    "durationInFrames": 153,
+    "image": "anime_04.png"
+  },
+  {
+    "id": 18,
+    "speakerName": "ずんだもん",
+    "color": "#FFE000",
+    "text": "神童のシュートは荒々しい強さじゃなくて、綺麗に決まる強さなんだよな。",
+    "filename": "comment_18.wav",
+    "duration": 4.437333333333333,
+    "durationInFrames": 159,
+    "image": "anime_04.png"
+  },
+  {
+    "id": 19,
+    "speakerName": "四国めたん",
+    "color": "#FF4444",
+    "text": "ハーモニクスまで持ってるの、音楽キャラとして完成度が高すぎる。",
+    "filename": "comment_19.wav",
+    "duration": 3.424,
+    "durationInFrames": 128,
+    "seFile": "拍子木1.mp3",
+    "image": "anime_05.png"
+  },
+  {
+    "id": 20,
+    "speakerName": "春日部つむぎ",
+    "color": "#44AAFF",
+    "text": "奏者マエストロからハーモニクスに行く流れ、見た目も名前も美しい。",
+    "filename": "comment_20.wav",
+    "duration": 3.6053333333333333,
+    "durationInFrames": 134,
+    "image": "anime_05.png"
+  },
+  {
+    "id": 21,
+    "speakerName": "ずんだもん",
+    "color": "#FFE000",
+    "text": "神童は技名だけでキャラ説明ができるのが強い。全部音楽で統一されてる。",
+    "filename": "comment_21.wav",
+    "duration": 5.226666666666667,
+    "durationInFrames": 182,
+    "image": "anime_05.png"
+  },
+  {
+    "id": 22,
+    "speakerName": "四国めたん",
+    "color": "#FF4444",
+    "text": "天才キャラって雑に強くなりがちだけど、神童はちゃんと演出が上品。",
+    "filename": "comment_22.wav",
+    "duration": 4,
+    "durationInFrames": 145,
+    "image": "anime_05.png"
+  },
+  {
+    "id": 23,
+    "speakerName": "春日部つむぎ",
+    "color": "#44AAFF",
+    "text": "天馬に最初は戸惑ってた神童が、だんだん信じるようになるのが良い。",
+    "filename": "comment_23.wav",
+    "duration": 3.744,
+    "durationInFrames": 138,
+    "seFile": "拍子木2.mp3",
+    "image": "anime_06.png"
+  },
+  {
+    "id": 24,
+    "speakerName": "ずんだもん",
+    "color": "#FFE000",
+    "text": "神童は現実を見てる側で、天馬は理想を叫ぶ側。この二人の温度差が刺さる。",
+    "filename": "comment_24.wav",
+    "duration": 5.312,
+    "durationInFrames": 185,
+    "image": "anime_06.png"
+  },
+  {
+    "id": 25,
+    "speakerName": "四国めたん",
+    "color": "#FF4444",
+    "text": "天馬の真っ直ぐさに神童が少しずつ救われていく感じが好きだった。",
+    "filename": "comment_25.wav",
+    "duration": 3.445333333333333,
+    "durationInFrames": 129,
+    "image": "anime_06.png"
+  },
+  {
+    "id": 26,
+    "speakerName": "春日部つむぎ",
+    "color": "#44AAFF",
+    "text": "神童がいるから天馬の無茶がチームの戦術になる。そこが新生雷門の強さ。",
+    "filename": "comment_26.wav",
+    "duration": 4.341333333333333,
+    "durationInFrames": 156,
+    "image": "anime_06.png"
+  },
+  {
+    "id": 27,
+    "speakerName": "ずんだもん",
+    "color": "#FFE000",
+    "text": "剣城相手にも引かない神童、キャプテンとしてちゃんと強い。",
+    "filename": "comment_27.wav",
+    "duration": 3.616,
+    "durationInFrames": 134,
+    "seFile": "小鼓（こつづみ）.mp3",
+    "image": "anime_07.png"
+  },
+  {
+    "id": 28,
+    "speakerName": "四国めたん",
+    "color": "#FF4444",
+    "text": "霧野が神童を心配する場面、二人の信頼関係が見えてよかった。",
+    "filename": "comment_28.wav",
+    "duration": 4.074666666666666,
+    "durationInFrames": 148,
+    "image": "anime_07.png"
+  },
+  {
+    "id": 29,
+    "speakerName": "春日部つむぎ",
+    "color": "#44AAFF",
+    "text": "三国や霧野たちが神童を支えてるのを見ると、雷門のキャプテンなんだなって思う。",
+    "filename": "comment_29.wav",
+    "duration": 4.469333333333333,
+    "durationInFrames": 160,
+    "image": "anime_07.png"
+  },
+  {
+    "id": 30,
+    "speakerName": "ずんだもん",
+    "color": "#FFE000",
+    "text": "神童は一人で抱え込むタイプだから、周りが支える展開が余計に刺さる。",
+    "filename": "comment_30.wav",
+    "duration": 4.661333333333333,
+    "durationInFrames": 165,
+    "image": "anime_07.png"
+  },
+  {
+    "id": 31,
+    "speakerName": "四国めたん",
+    "color": "#FF4444",
+    "text": "フィフスセクターの指示に従うしかないキャプテンって、序盤の神童が一番つらかったと思う。",
+    "filename": "comment_31.wav",
+    "duration": 4.661333333333333,
+    "durationInFrames": 165,
+    "seFile": "拍子木1.mp3",
+    "image": "anime_08.png"
+  },
+  {
+    "id": 32,
+    "speakerName": "春日部つむぎ",
+    "color": "#44AAFF",
+    "text": "本当は勝ちたいのに、チームを守るために飲み込むしかないのがきつい。",
+    "filename": "comment_32.wav",
+    "duration": 3.552,
+    "durationInFrames": 132,
+    "image": "anime_08.png"
+  },
+  {
+    "id": 33,
+    "speakerName": "ずんだもん",
+    "color": "#FFE000",
+    "text": "神童が苦しんでるから、サッカーを取り戻すってテーマが重く見える。",
+    "filename": "comment_33.wav",
+    "duration": 4.192,
+    "durationInFrames": 151,
+    "image": "anime_08.png"
+  },
+  {
+    "id": 34,
+    "speakerName": "四国めたん",
+    "color": "#FF4444",
+    "text": "管理されたサッカーの中で、神のタクトを持つキャプテンが悩む構図が上手い。",
+    "filename": "comment_34.wav",
+    "duration": 3.9146666666666667,
+    "durationInFrames": 143,
+    "image": "anime_08.png"
+  },
+  {
+    "id": 35,
+    "speakerName": "春日部つむぎ",
+    "color": "#44AAFF",
+    "text": "神童は天才なのにメンタルが無敵じゃないところが良い。だから応援したくなる。",
+    "filename": "comment_35.wav",
+    "duration": 4.16,
+    "durationInFrames": 150,
+    "seFile": "拍子木2.mp3",
+    "image": "anime_09.png"
+  },
+  {
+    "id": 36,
+    "speakerName": "ずんだもん",
+    "color": "#FFE000",
+    "text": "完璧そうに見えて、実は一番揺れてるキャラなのが人間味ある。",
+    "filename": "comment_36.wav",
+    "duration": 4.042666666666666,
+    "durationInFrames": 147,
+    "image": "anime_09.png"
+  },
+  {
+    "id": 37,
+    "speakerName": "四国めたん",
+    "color": "#FF4444",
+    "text": "泣くキャプテンって聞くと弱そうなのに、神童の場合は責任感の強さに見える。",
+    "filename": "comment_37.wav",
+    "duration": 4.16,
+    "durationInFrames": 150,
+    "image": "anime_09.png"
+  },
+  {
+    "id": 38,
+    "speakerName": "春日部つむぎ",
+    "color": "#44AAFF",
+    "text": "強さと繊細さが同居してるから、神童はただのクールキャラで終わらない。",
+    "filename": "comment_38.wav",
+    "duration": 3.7333333333333334,
+    "durationInFrames": 137,
+    "image": "anime_09.png"
+  },
+  {
+    "id": 39,
+    "speakerName": "ずんだもん",
+    "color": "#FFE000",
+    "text": "神童がボールを持つと、次の展開を期待して画面を見ちゃう。",
+    "filename": "comment_39.wav",
+    "duration": 3.872,
+    "durationInFrames": 142,
+    "seFile": "和太鼓でドドン.mp3",
+    "image": "anime_10.png"
+  },
+  {
+    "id": 40,
+    "speakerName": "四国めたん",
+    "color": "#FF4444",
+    "text": "パス一本で流れを変えるタイプの強キャラって、イナズマだとかなり貴重。",
+    "filename": "comment_40.wav",
+    "duration": 3.7973333333333334,
+    "durationInFrames": 139,
+    "image": "anime_10.png"
+  },
+  {
+    "id": 41,
+    "speakerName": "春日部つむぎ",
+    "color": "#44AAFF",
+    "text": "派手なシュートだけじゃなくて、組み立てで魅せられるのが神童のすごさ。",
+    "filename": "comment_41.wav",
+    "duration": 3.466666666666667,
+    "durationInFrames": 129,
+    "image": "anime_10.png"
+  },
+  {
+    "id": 42,
+    "speakerName": "ずんだもん",
+    "color": "#FFE000",
+    "text": "神童がいないと雷門の試合が一気に不安になる。存在感が大きすぎる。",
+    "filename": "comment_42.wav",
+    "duration": 4.714666666666667,
+    "durationInFrames": 167,
+    "image": "anime_10.png"
+  },
+  {
+    "id": 43,
+    "speakerName": "四国めたん",
+    "color": "#FF4444",
+    "text": "鬼道と並ぶと、司令塔の系譜をちゃんと受け継いでる感じがする。",
+    "filename": "comment_43.wav",
+    "duration": 3.477333333333333,
+    "durationInFrames": 130,
+    "seFile": "小鼓（こつづみ）.mp3",
+    "image": "anime_11.png"
+  },
+  {
+    "id": 44,
+    "speakerName": "春日部つむぎ",
+    "color": "#44AAFF",
+    "text": "鬼道が戦術の怪物なら、神童は感性で試合を奏でる天才って感じ。",
+    "filename": "comment_44.wav",
+    "duration": 4.1706666666666665,
+    "durationInFrames": 151,
+    "image": "anime_11.png"
+  },
+  {
+    "id": 45,
+    "speakerName": "ずんだもん",
+    "color": "#FFE000",
+    "text": "円堂世代の後に神童を置いたの、雷門のキャプテン像としてかなり良かった。",
+    "filename": "comment_45.wav",
+    "duration": 4.714666666666667,
+    "durationInFrames": 167,
+    "image": "anime_11.png"
+  },
+  {
+    "id": 46,
+    "speakerName": "四国めたん",
+    "color": "#FF4444",
+    "text": "熱血だけじゃない、悩みながら導くキャプテンを見せてくれたのが神童。",
+    "filename": "comment_46.wav",
+    "duration": 3.84,
+    "durationInFrames": 141,
+    "image": "anime_11.png"
+  },
+  {
+    "id": 47,
+    "speakerName": "春日部つむぎ",
+    "color": "#44AAFF",
+    "text": "神童拓人は、技も立場も性格も全部「指揮者」でまとまってるのが強い。",
+    "filename": "comment_47.wav",
+    "duration": 4.896,
+    "durationInFrames": 172,
+    "seFile": "拍子木1.mp3",
+    "image": "anime_12.png"
+  },
+  {
+    "id": 48,
+    "speakerName": "ずんだもん",
+    "color": "#FFE000",
+    "text": "天才キャプテンなのに苦しむから、勝った時の解放感がすごい。",
+    "filename": "comment_48.wav",
+    "duration": 4.010666666666666,
+    "durationInFrames": 146,
+    "image": "anime_12.png"
+  },
+  {
+    "id": 49,
+    "speakerName": "四国めたん",
+    "color": "#FF4444",
+    "text": "神のタクト、奏者マエストロ、フォルテシモ。神童は名前の響きからもう勝ってる。",
+    "filename": "comment_49.wav",
+    "duration": 4.544,
+    "durationInFrames": 162,
+    "image": "anime_12.png"
+  },
+  {
+    "id": 50,
+    "speakerName": "春日部つむぎ",
+    "color": "#44AAFF",
+    "text": "派手さ、頭脳、繊細さ、キャプテン感。全部持ってるから人気が出るのも納得。",
+    "filename": "comment_50.wav",
+    "duration": 5.429333333333333,
+    "durationInFrames": 188,
+    "image": "anime_12.png"
+  },
+  {
+    "id": 51,
+    "speakerName": "ずんだもん",
+    "color": "#FFE000",
+    "text": "神童拓人、試合を支配する天才キャプテンって言葉が一番似合う。",
+    "filename": "comment_51.wav",
+    "duration": 4.416,
+    "durationInFrames": 158,
+    "seFile": "拍子木2.mp3",
+    "image": "anime_13.png"
+  },
+  {
+    "id": 52,
+    "speakerName": "四国めたん",
+    "color": "#FF4444",
+    "text": "今見ても、神童がタクトを振るだけで雷門の空気が変わるのが気持ちいい。",
+    "filename": "comment_52.wav",
+    "duration": 3.8613333333333335,
+    "durationInFrames": 141,
+    "image": "anime_13.png"
+  }
+]

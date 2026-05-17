@@ -1,0 +1,25 @@
+{
+  "name": "remotion-video",
+  "version": "1.0.0",
+  "description": "Simple Remotion video",
+  "scripts": {
+    "start": "remotion studio",
+    "audio": "node generate-audio.mjs",
+    "images": "node download-images.mjs",
+    "compositions": "remotion compositions src/index.ts",
+    "render": "node render.mjs"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.290",
+    "remotion": "4.0.290",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.4",
+    "typescript": "^5.0.0"
+  },
+  "remotion": {
+    "entryPoint": "src/index.ts"
+  }
+}
