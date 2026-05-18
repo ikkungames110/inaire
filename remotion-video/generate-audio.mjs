@@ -1,7 +1,7 @@
 import { writeFileSync, mkdirSync } from 'fs';
 import { resolve, dirname } from 'path';
 import { fileURLToPath } from 'url';
-import { VOCAB, COMMENTS } from './scripts/shindou-takuto-reactions.mjs';
+import { VOCAB, COMMENTS } from './scripts/gouenji-shuuya-reactions.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const VOICEVOX = 'http://localhost:50021';
