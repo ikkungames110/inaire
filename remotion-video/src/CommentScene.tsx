@@ -14,6 +14,9 @@ export interface CommentMeta {
 }
 
 const SUBTITLE_COLORS: Record<string, string> = {
+  '麒ヶ島宗麟':   '#FFE000',
+  '青山龍星':     '#FF4444',
+  '白上虎太郎':   '#44AAFF',
   'ずんだもん':   '#FFE000',
   '四国めたん':   '#FF4444',
   '春日部つむぎ': '#44AAFF',
@@ -83,7 +86,7 @@ export const CommentScene: React.FC<{ comment: CommentMeta }> = ({ comment }) =>
   );
   const finalOpacity = Math.min(opacity, fadeOut);
 
-  const subtitleColor = comment.isIntro ? 'white' : (SUBTITLE_COLORS[comment.speakerName] ?? '#FFE000');
+  const subtitleColor = comment.isIntro ? 'white' : (comment.color ?? SUBTITLE_COLORS[comment.speakerName] ?? '#FFE000');
   const fontSize = calcFontSize(comment.text);
 
   return (

@@ -7,27 +7,27 @@ const OUT_DIR = resolve(__dirname, 'public/images');
 const WIKI_API = 'https://inazuma-eleven.fandom.com/api.php';
 
 const TITLE_IMAGE = {
-  // Gouenji close-up from the episode 52 comeback. Strong title-card fit for the ace striker.
-  file: "(IE (052)) Gouenji's intensity.png",
+  // The victory moment communicates "world's best" immediately.
+  file: '(IE (125)) Inazuma Japan winning the finals.png',
   ext: 'png',
 };
 
-// Gouenji Shuuya reaction video screenshots.
-// Rule: use official anime screenshots where Gouenji is clearly visible, preferably 1280x720.
+// Little Gigant final and the Jet Stream winning goal.
+// Rule: use official anime screenshots where Endou, Rococo, the final goal, or the victory are clear.
 const IMAGES = [
-  { id: 1,  note: 'first Teikoku match entrance',        file: '(IE (002)) Gouenji entering the field.png', ext: 'png' },
-  { id: 2,  note: 'Yuuka accident memory',               file: '(IE (001)) Shuuya remembering Yuuka.png', ext: 'png' },
-  { id: 3,  note: 'telling Endou about Yuuka',           file: '(IE (003)) Shuuya telling Endou about Yuuka.png', ext: 'png' },
-  { id: 4,  note: 'Inazuma Otoshi bicycle kick',         file: '(IE (005)) Gouenji bikick.png', ext: 'png' },
-  { id: 5,  note: 'Kidou rivalry and Raimon core',       file: '(IE (013)) Kidou and Gouenji clash.png', ext: 'png' },
-  { id: 6,  note: 'Kidokawa Seishuu confrontation',      file: "(IE (020)) Gouenji telling the triplets he'll fight fairly.png", ext: 'png' },
-  { id: 7,  note: 'Zeus match and Yuuka promise',        file: '(IE (026)) Gouenji thinks of Yuuka.png', ext: 'png' },
-  { id: 8,  note: 'return against Epsilon Kai',          file: '(IE (052)) Gouenji revealing himself.png', ext: 'png' },
-  { id: 9,  note: 'Bakunetsu Storm comeback goal',       file: '(IE (052)) Gouenji scoring with Bakunetsu Storm.png', ext: 'png' },
-  { id: 10, note: 'Crossfire with Fubuki',               file: '(IE (062)) Gouenji and Fubuki crossfire.png', ext: 'png' },
-  { id: 11, note: 'Bakunetsu Screw in Inazuma Japan',    file: '(IE (072)) Bakunetsu Screw.png', ext: 'png' },
-  { id: 12, note: 'Grand Fire with Toramaru and Hiroto', file: '(IE (095)) Grand Fire.png', ext: 'png' },
-  { id: 13, note: 'Little Gigant final resolve',         file: '(IE (124)) Gouenji will score the goal.png', ext: 'png' },
+  { id: 1,  note: 'Endou and Rococo face off',     file: '(IE (124)) Endou and Rococo facing off.png', ext: 'png' },
+  { id: 2,  note: 'God Catch',                     file: '(IE (123)) God Catch.png', ext: 'png' },
+  { id: 3,  note: 'Tenkuu Otoshi scores',          file: '(IE (123)) Tenkuu Otoshi scoring.png', ext: 'png' },
+  { id: 4,  note: 'X Blast blocked',               file: '(IE (125)) Gouenji and Toramaru blocking X Blast.png', ext: 'png' },
+  { id: 5,  note: 'Rococo as forward',             file: '(IE (124)) Rococo as forward.png', ext: 'png' },
+  { id: 6,  note: 'Rococo stops Big Bang',         file: '(IE (124)) Rococo stopping Big Bang.png', ext: 'png' },
+  { id: 7,  note: 'Kudou last order',              file: '(IE (125)) Kudou giving the last order.png', ext: 'png' },
+  { id: 8,  note: 'Endou enjoys sakka',            file: "(IE (125)) Endou happy he's playing soccer.png", ext: 'png' },
+  { id: 9,  note: 'Rococo faces Jet Stream',       file: '(IE (125)) Rococo determined to stop Jet Stream.png', ext: 'png' },
+  { id: 10, note: 'Winning goal',                  file: '(IE (125)) Winning goal.png', ext: 'png' },
+  { id: 11, note: 'World champion celebration',    file: '(IE (125)) Inazuma Japan winning the finals.png', ext: 'png' },
+  { id: 12, note: 'Endou and Rococo handshake',    file: '(IE (125)) Endou and Rococo shaking hands.png', ext: 'png' },
+  { id: 13, note: 'Memorable photos',              file: '(IE (125)) Memorable photos.png', ext: 'png' },
 ];
 
 async function resolveFandomFile(file) {

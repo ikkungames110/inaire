@@ -1,7 +1,7 @@
 import { writeFileSync, mkdirSync } from 'fs';
 import { resolve, dirname } from 'path';
 import { fileURLToPath } from 'url';
-import { VOCAB, COMMENTS } from './scripts/gouenji-shuuya-reactions.mjs';
+import { VOCAB, COMMENTS } from './scripts/little-gigant-final-reactions.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const VOICEVOX = 'http://localhost:50021';
@@ -9,6 +9,8 @@ const PUBLIC_AUDIO = resolve(__dirname, 'public/audio');
 const META_OUT = resolve(__dirname, 'src/audio-meta.json');
 const FPS = 30;
 const PAUSE_FRAMES = 25;
+const INTRO_SPEED_SCALE = 1.1;
+const MAIN_SPEED_SCALE = 1.2;
 
 async function registerVocab() {
   for (const w of VOCAB) {
@@ -33,7 +35,7 @@ function getWavDuration(buf) {
   return dataSize / byteRate;
 }
 
-async function synthesize(text, speakerId, speedScale = 1.3) {
+async function synthesize(text, speakerId, speedScale = MAIN_SPEED_SCALE) {
   const qRes = await fetch(
     `${VOICEVOX}/audio_query?text=${encodeURIComponent(text)}&speaker=${speakerId}`,
     { method: 'POST' }
@@ -58,7 +60,7 @@ async function main() {
 
   for (const c of COMMENTS) {
     process.stdout.write(`[${c.id}] ${c.speakerName}: 生成中...`);
-    const buf = await synthesize(c.text, c.speakerId, c.isIntro ? 1.1 : 1.3);
+    const buf = await synthesize(c.text, c.speakerId, c.isIntro ? INTRO_SPEED_SCALE : MAIN_SPEED_SCALE);
     const filename = `comment_${String(c.id).padStart(2, '0')}.wav`;
     writeFileSync(resolve(PUBLIC_AUDIO, filename), buf);
     const duration = getWavDuration(buf);
